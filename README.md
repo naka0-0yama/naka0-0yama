@@ -12,7 +12,11 @@ I'm a software developer passionate about operating system development
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust             53 mins               ████████████████░░░░░░░░░   64.66 %
+RGBDS Assembly   22 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
+Other            5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+TOML             1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+C                0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
