@@ -10,6 +10,11 @@ I'm a software developer passionate about operating system development
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=naka0-0yama&layout=compact&langs_count=8&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=naka0-0yama&layout=compact&langs_count=8&theme=dark_github)
  <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
