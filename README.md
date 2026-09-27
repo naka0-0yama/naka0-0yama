@@ -12,11 +12,11 @@ I'm a software developer passionate about operating system development
  <!--START_SECTION:waka-->
 
 ```txt
-Other                6 hrs 48 mins         ████████▒░░░░░░░░░░░░░░░░   32.84 %
-TypeScript           5 hrs 20 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
-C++                  1 hr 44 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Rust                 1 hr 42 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-Python               1 hr 34 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Other                6 hrs 43 mins         ████████▓░░░░░░░░░░░░░░░░   34.77 %
+TypeScript           5 hrs 20 mins         ███████░░░░░░░░░░░░░░░░░░   27.59 %
+C++                  1 hr 44 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Python               1 hr 34 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Markdown             1 hr                  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
 ```
 
 <!--END_SECTION:waka-->
