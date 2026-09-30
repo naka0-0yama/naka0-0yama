@@ -12,11 +12,11 @@ I'm a software developer passionate about operating system development
  <!--START_SECTION:waka-->
 
 ```txt
-Other            4 hrs 23 mins         █████████████▒░░░░░░░░░░░   53.67 %
-C++              1 hr 25 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
-Rust             46 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-Markdown         24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Makefile         23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Other        3 hrs 2 mins          ██████████████████░░░░░░░   71.92 %
+C++          51 mins               █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+CMake        7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Rust         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Batchfile    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
