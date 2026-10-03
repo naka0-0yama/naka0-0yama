@@ -12,11 +12,10 @@ I'm a software developer passionate about operating system development
  <!--START_SECTION:waka-->
 
 ```txt
-Other       4 hrs 23 mins         ████████████████████████▒   96.75 %
-Batchfile   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Python      2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-JSON        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-CMake       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other    4 hrs 53 mins         ████████████████████████▓   98.29 %
+Python   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+JSON     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+CSV      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
