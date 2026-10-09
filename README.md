@@ -12,7 +12,7 @@ I'm a software developer passionate about operating system development
  <!--START_SECTION:waka-->
 
 ```txt
-Other   4 hrs 33 mins         █████████████████████████   100.00 %
+Other   1 hr 29 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
