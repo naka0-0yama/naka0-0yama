@@ -12,9 +12,7 @@ I'm a software developer passionate about operating system development
  <!--START_SECTION:waka-->
 
 ```txt
-Rust         1 hr 31 mins          ██████████████████████▒░░   89.21 %
-Git Config   9 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-TOML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
